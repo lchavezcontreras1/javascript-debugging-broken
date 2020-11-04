@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javascript-debugging.iml" filepath="$PROJECT_DIR$/.idea/javascript-debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javascript-debugging-broken.iml" filepath="$PROJECT_DIR$/.idea/javascript-debugging-broken.iml" />
     </modules>
   </component>
 </project>
