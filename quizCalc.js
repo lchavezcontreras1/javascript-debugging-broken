@@ -11,7 +11,7 @@ $(document).ready(function () {
         var average = (quiz1 + quiz2 + quiz3) / 3;
 
         var min = math.min(quiz1, quiz2, quiz3);
-        var max = Math.Max(quiz1, quiz3, quiz3);
+        var max = Math.Max(quiz1, quiz2, quiz3);
 
         var gradeToPass = (73 * 4) - (quiz1 + quiz2 + quiz3);
 
